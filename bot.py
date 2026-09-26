@@ -9,7 +9,7 @@ from telegram.ext import (
 
 # =========================
 # PC FIX BOT
-# TOKEN="8958908481:AAHb6RW1iQsqf_Iz8zTts--M-nymoRuqSrc"
+# TOKEN="8958908481:AAFCGloh19V7PxDaRtPWf4KpX9DaFlFT27Q"
 
 CHANNEL = "@PCFixHelp24"
 GROUP = "@PCFixHelp247"
